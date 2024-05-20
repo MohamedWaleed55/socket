@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/SocetprogrammingFinalProject/login.iml" filepath="$PROJECT_DIR$/SocetprogrammingFinalProject/login.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SocetprogrammingFinalProject_server/server.iml" filepath="$PROJECT_DIR$/SocetprogrammingFinalProject_server/server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/socket.iml" filepath="$PROJECT_DIR$/.idea/socket.iml" />
+    </modules>
+  </component>
+</project>
